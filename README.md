@@ -1,5 +1,5 @@
 # ecommerce-projects
-E-commerce data problem-solving pipeline: identify and fix real-world issues like aggregation errors, duplicate transactions, and broken joins. Includes analysis, dashboards, and validations to ensure accurate metrics and actionable business insights.
+E-commerce analytics & reverse engineering: simulate and solve real-world data issues like aggregation errors, duplicates, and broken joins. Combines analysis, dashboards, and validations to uncover root causes and deliver accurate, actionable business insights.
 
 ```
 repo-name/
