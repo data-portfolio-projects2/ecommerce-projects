@@ -1,7 +1,5 @@
 # E-commerce Analytics Engineering & Data Forensics
 
-| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) |
-
 This repository showcases how common business reporting issues are created, detected, and fixed using **SQL** and **Python**.
 
 Instead of perfect demo data, the project intentionally generates messy e-commerce data and then reverse-engineers the problems — the same way analysts troubleshoot broken dashboards in real companies.
